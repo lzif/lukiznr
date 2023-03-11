@@ -4,9 +4,9 @@ On this page, you will find a collection of my personal projects and coding expe
 
 To get started, take a look at the list of projects below:
 
-- [ ] **Project 1:** A simple to-do list app built with React :pencil:
-- [ ] **Project 2:** A web app that displays the Al-Quran, allowing users to read, search, and bookmark verses. The app will also include translations and audio recitations. :book:
-- [ ] **Project 3:** A weather app that shows the current temperature and forecast for a given location :sunny:
+- [x] **Project 1:** A simple to-do list app built with React :pencil:
+- [x] **Project 2:** A web app that displays the Al-Quran, allowing users to read, search, and bookmark verses. The app will also include translations and audio recitations. :book:
+- [x] **Project 3:** A weather app that shows the current temperature and forecast for a given location :sunny:
 - [ ] **Project 4:** A simple CRUD (create, read, update, delete) application that allows users to create and manage their own blog posts 📝
 - [ ] **Project 5:** A web scraper that collects data from a specific website and stores it in a database for later analysis 🕷️
 - [ ] **Project 6:** A website that displays a map and allows users to search for and view information about different locations around the world 🗺️

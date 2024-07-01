@@ -13,16 +13,16 @@ A library that provides utilities and additional functions to enhance developer 
 [GitHub Repository](https://github.com/lzif/Xtra-Value)
 
 ### Other Notable Projects
-- **Project 1**: Brief description or [repository link](#)
-- **Project 2**: Brief description or [repository link](#)
+- **Quizella**: Interactive quiz web app. [repo](https://github.com/lzif/Quizella)
+- **Socially**: Social Media website. [repo](https://github.com/lzif/Socially)
 
 ## 🌱 Learning & Interests
 I'm always eager to learn new programming languages and explore different topics in software development.
 
 ## 📫 Connect with Me
 - [GitHub](https://github.com/lzif)
-- [LinkedIn](https://linkedin.com/in/your-linkedin-username)  <!-- Edit this with your actual LinkedIn URL -->
-- [Email](mailto:your-email@example.com)  <!-- Edit this with your actual email address -->
+- [LinkedIn](https://linkedin.com/in/luki-zainur-ismawan-53b138255)
+- [Email](mailto:lukyfriendly@gmail.com) 
 
 ---
 

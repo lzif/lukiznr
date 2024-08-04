@@ -7,14 +7,13 @@ I'm a junior fullstack developer from East Java, Indonesia. I specialize in crea
 - **Backend**: Node.js
 
 ## 📘 Projects
-### Xtra Value (XV) Library
-A library that provides utilities and additional functions to enhance developer productivity.
+### AutoScraper Library
+autoscraper is a JavaScript library that simplifies web scraping by automatically extracting data based on provided sample data.
 
-[GitHub Repository](https://github.com/lzif/Xtra-Value)
+[GitHub Repository](https://github.com/lzif/scraper)
 
 ### Other Notable Projects
-- **Quizella**: Interactive quiz web app. [repo](https://github.com/lzif/Quizella)
-- **Socially**: Social Media website. [repo](https://github.com/lzif/Socially)
+- **BrainSpark**: Interactive E-learning Web App. [repo](https://github.com/lzif/BrainSpark)
 
 ## 🌱 Learning & Interests
 I'm always eager to learn new programming languages and explore different topics in software development.

@@ -10,7 +10,7 @@ I'm a junior fullstack developer from East Java, Indonesia. I specialize in crea
 ### AutoScraper Library
 autoscraper is a JavaScript library that simplifies web scraping by automatically extracting data based on provided sample data.
 
-[GitHub Repository](https://github.com/lzif/scraper)
+[GitHub Repository](https://github.com/lzif/autoscraper)
 
 ### Other Notable Projects
 - **BrainSpark**: Interactive E-learning Web App. [repo](https://github.com/lzif/BrainSpark)

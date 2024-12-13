@@ -1,5 +1,3 @@
-lzif / README.md
-
 # Hi there, I'm Luki Zainur! 👋
 
 I'm a junior fullstack developer from East Java, Indonesia. I specialize in creating efficient and maintainable code using modern web technologies.
@@ -8,11 +6,16 @@ I'm a junior fullstack developer from East Java, Indonesia. I specialize in crea
 ![GitHub stars](https://img.shields.io/github/stars/lzif?style=social)
 
 ## 🛠️ Technologies & Tools
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lzif&show_icons=true&locale=en&layout=compact" alt="lzif" /></p>
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+<br/>
 
 ## 📚 Projects
 - **Malas** - AI-powered CLI assistant that runs commands and writes files based on user prompts.  
